@@ -1,0 +1,15 @@
+{
+  "name": "exercise-2-dependency-update",
+  "version": "1.0.0",
+  "description": "Exercise to practice updating outdated dependencies",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["exercise", "dependencies", "npm"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "1.30.1"
+  }
+}

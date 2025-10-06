@@ -1,6 +1,11 @@
-function calculateTax(amount, taxRate) {
-    var tax = amount * taxRate;
+const calculateTax = (amount, taxRate) => {
+    const tax = amount * taxRate;
     return amount + tax;
-}
+};
 
-module.exports = calculateTax;
+const addSum = (...numbers) => {
+    return numbers.reduce((sum, num) => sum + num, 0);
+};
+
+export default calculateTax;
+export { addSum };
