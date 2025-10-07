@@ -1,4 +1,4 @@
-# Windsurf demo 1
+# Windsurf demo 2
 
 Use Flows to automate test execution across files.
 

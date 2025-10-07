@@ -1,4 +1,4 @@
-# Windsurf demo 1
+# Windsurf demo 3
 
 Visualize MCP store
 See github MCP
