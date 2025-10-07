@@ -1,5 +1,5 @@
-# Windsurf demo 2
+# Windsurf demo 1
 
-Create Docker deployement for exercise 1.
+Use Flows to automate test execution across files.
 
-Prompt: Generate Dockerfile for the deployment of the windsurf exercise_1
+Prompt = Launch test for exercise_1.

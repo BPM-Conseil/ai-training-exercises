@@ -1,7 +1,6 @@
-# Windsurf demo 3
+# Windsurf demo 1
 
-Update libraries
+Visualize MCP store
+See github MCP
 
-1. Run exercise 2 to see that it fail.
-2. Prompt: Update the library for exercise 2 so formatDistanceToNowStrict works
-3. Validate the change.
+Prompt: Can you tell me by reading the code of the github jlowin/fastmcp how we create a simple fastmcp in python ?

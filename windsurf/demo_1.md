@@ -1,6 +1,5 @@
 # Windsurf demo 1
 
-Visualize MCP store
-See github MCP
+Automate setup, documentation, testing, deployment.
 
-Prompt: Can you tell me by reading the code of the github jlowin/fastmcp how we create a simple fastmcp in python ?
+Prompt = Create tests and generate function documentation for all files in @Directories:exercise_1 using Node's built-in assert module.
