@@ -1,6 +1,9 @@
 # Windsurf demo 3
 
 Visualize MCP store
-See github MCP
+See postgresql MCP
 
-Prompt: Can you tell me by reading the code of the github jlowin/fastmcp how we create a simple fastmcp in python ?
+Prompt: 
+
+How many datasets does I have in my ckan database
+Tell me the most recent one
